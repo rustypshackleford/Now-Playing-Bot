@@ -1,9 +1,8 @@
-Discord Spotify Integration
+Now Playing Bot
 ===================
 
 
-**Discord Spotify Integration** is my super-catchy name for a Discord self-bot which updates the 'Now Playing' field of the Discord client with whatever song happens to be playing on your local Spotify client.
-Visit https://sam-shannon.id.au/home/programming/discord-spotify-integration/ for more information.
+**Now Playing Bot** is my super-catchy name for a Discord self-bot which updates the 'Now Playing' field of the Discord client with whatever song happens to be playing on your local Spotify client.
 
 ----------
 
