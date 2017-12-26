@@ -1,0 +1,31 @@
+{
+  "name": "npbot",
+  "version": "1.0.0",
+  "description": "Discord Spotify Integration and Music Player",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/roberestarkk/discord-spotify-integration.git"
+  },
+  "author": "Rusty",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "goo.gl": "^0.1.4",
+    "spotify-web-helper": "^1.7.1",
+    "iterate-js": "^1.0.29",
+    "jsonfile": "^2.4.0",
+    "moment": "^2.19.4",
+    "node-opus": "^0.2.4",
+    "spotify-web-api-node": "^2.3.6",
+    "superagent": "^3.8.2",
+    "superagent-jsonapify": "^1.4.2",
+    "through2": "^2.0.3",
+    "ytdl-core": "^0.7.24"
+  },
+  "devDependencies": {}
+}
